@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebastianbarkan
-- 👀 I’m interested in creating interesting projects
-- 🌱 I’m currently learning React.js, Python,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating cool projects
+- 🌱 I’m currently learning Next.js and Typescript
+- 💞️ I’m looking to collaborate on any engaging opportunities
 - 📫 How to reach me: sebastiandbarkan@gmail.com
 
 <!---
