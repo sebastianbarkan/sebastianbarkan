@@ -5,6 +5,7 @@ I'm @sebastianbarkan, what particularly interests me is the process of refining 
 - 🌱 I’m currently learning Next.js, Typescript, PHP and React
 - 💞️ I’m looking to collaborate on ambitious projects that aim to solve a hard or interesting problem in a new way.
 - 📫 How to reach me: sebastiandbarkan@gmail.com
+- Thank you TANSTACK!
 
 <!---
 sebastianbarkan/sebastianbarkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
